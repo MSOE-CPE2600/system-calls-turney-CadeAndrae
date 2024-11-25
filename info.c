@@ -3,7 +3,7 @@ Filename: info.c
 Description: Provides data about the system using maintenance. 
 system calls.
 Author: Cade Andrae
-Date: 11/16/24
+Date: 11/17/24
 Compile Instructions: gcc info.c -o info
 Test Instructions:
       - Usage: ./info

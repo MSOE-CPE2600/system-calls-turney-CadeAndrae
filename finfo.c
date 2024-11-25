@@ -3,7 +3,7 @@ Filename: finfo.c
 Description: Displays the file information about a given file
 provided via the command line.
 Author: Cade Andrae
-Date: 11/16/24
+Date: 11/17/24
 Compile Instructions: gcc finfo.c -o finfo
 Test Instructions:
       - Usage: ./finfo <file_path>

@@ -18,7 +18,7 @@
 ---
 
 ### 3. **`pinfo.c`**
-- **Description**: Takes a single command line parameter that is a process identifier and print out the process ID, process priority, and scheduling method.
+- **Description**: Takes a single command line parameter that is a process identifier and print out the process ID, process priority, and scheduling method. 
 - **Compilation**: `gcc pinfo.c -o pinfo`
 - **Usage**: `./pinfo <PID>` or `./pinfo` (for the current process)
 

@@ -4,7 +4,7 @@ Description: Take a single command line parameter that is a
 process identifier and print out the process ID, process 
 priority, and scheduling method.
 Author: Cade Andrae
-Date: 11/16/24
+Date: 11/17/24
 Compile Instructions: gcc pinfo.c -o pinfo
 Test Instructions:
       - Usage: ./pinfo <PID>
